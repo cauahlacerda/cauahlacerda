@@ -11,7 +11,7 @@
 
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,github,git,mysql,js,nodejs,react,cpp,cs,html,css,ps,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,mysql,js,nodejs,react,cpp,html,css,ps,notion)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
