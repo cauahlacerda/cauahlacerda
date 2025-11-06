@@ -1,16 +1,26 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0B3D91&height=120&section=header" alt="header"/> 
 
-<!--
-**cauahlacerda/cauahlacerda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=0B3D911&width=435&lines=Hello%2C+it's+Cauã+Lacerda" alt="Introduction"/>
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <img src="./assets/terminal_caua.gif" alt="About Me Terminal GIF"/>
+</div>
+
+
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,mysql,js,nodejs,react,cpp,cs,html,css,ps,notion)](https://skillicons.dev)
+
+### Studying
+[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
+
+### Connect with me!
+<div>
+    <a href="https://www.linkedin.com/in/caualacerda/">
+        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+    </a> 
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0B3D91&height=120&section=footer" alt="footer"/>
