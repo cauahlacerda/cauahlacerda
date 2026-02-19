@@ -4,18 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=0B3D911&width=435&lines=Hello%2C+it's+Cauã+Lacerda" alt="Introduction"/>
 </a>
 
-
-<div>
-    <img src="./assets/terminal_caua.gif" alt="About Me Terminal GIF"/>
-</div>
-
-
-### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,github,git,mysql,js,nodejs,react,cpp,html,css,ps,notion)](https://skillicons.dev)
-
-### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
-
 ### Connect with me!
 <div>
     <a href="https://www.linkedin.com/in/caualacerda/">
